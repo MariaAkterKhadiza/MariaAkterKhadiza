@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariya Dewan</h1>
 <h3 align="center">A passionate Learner from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://iconscout.com/lottie-animation/female-programmer-working-on-programming-language-6764688">
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-photo/programmer-working-computer-office-programmer-coding-programming-illustration-flat-style-generative-ai_804788-60656.jpg?w=360">
 - 🌱 I’m currently learning **phitron**
 
 - 💬 Ask me about **HTML,CSS,C#,C++**
