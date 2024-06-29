@@ -1,3 +1,5 @@
+![logo](https://github.com/MariaAkterKhadiza/MariaAkterKhadiza/blob/main/Blue%20Gaming%20Facebook%20Cover.png)
+
 <h1 align="center">Hi 👋, I'm Mariya Dewan</h1>
 <h3 align="center">A passionate Learner from Bangladesh</h3>
 
