@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mariya Dewan</h1>
 <h3 align="center">A passionate Learner from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fpayalthummar&psig=AOvVaw2mGzPeHb8y9ciXxknbEfV3&ust=1719728422606000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKDykteVgIcDFQAAAAAdAAAAABAR">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A&s">
 - 🌱 I’m currently learning **phitron**
 
 - 💬 Ask me about **HTML,CSS,C#,C++**
